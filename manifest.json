@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ExampleTopicHelper",
+    "version": "1.0",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "host_permissions": ["*://*.examtopics.com/*"],
+    "action": {
+      "default_icon": "icons/icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.examtopics.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
