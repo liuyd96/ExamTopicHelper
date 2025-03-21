@@ -1,4 +1,5 @@
-# ExamTopicHelper - Chrome 扩展
+
+# ExamTopicHelper - Chrome 扩展  Powered by DeepSeek-R1 ！！！
 
 ![image](https://github.com/user-attachments/assets/9e194b1c-3215-4c41-b7a2-2a84ca0f269b)
 
@@ -26,3 +27,4 @@ https://url1
 https://url2
 https://url3
 ```
+
